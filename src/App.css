@@ -1,0 +1,40 @@
+html {
+  background-color: #f3f2f7;
+}
+.header {
+  background-color: #0F1525 !important;
+  color: #ffffff !important;
+}
+.header .title {
+  flex-grow: 1;
+  margin-left: 10px;
+}
+.main {
+  margin-top: 80px;
+}
+.search-bar {
+  margin-top: 125px;
+  margin-bottom: 20px;
+  width: 80% !important;
+}
+.data-card {
+  margin: 10px 0 !important;
+}
+.csv-button {
+  background: #dfb100 !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  border-radius: 5px !important;
+}
+.dialog-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dialog-loader {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
